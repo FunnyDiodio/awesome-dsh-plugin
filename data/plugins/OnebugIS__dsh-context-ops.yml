@@ -1,0 +1,6 @@
+url: https://github.com/OnebugIS/dsh-context-ops
+name: OnebugIS/dsh-context-ops
+category: session
+description:
+  en: 'Adds handoff, context-decision and context-diagnose skills, a self-contained pressure-reading tool, and slash commands.'
+  zh: '新增交接、上下文决策、上下文诊断三个技能，自带压力读数工具与斜杠命令。'
